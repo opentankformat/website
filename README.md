@@ -1,2 +1,2 @@
 # website
-The site for the Open Tank Format Workgroup 
+The repository holding the content of the Open Tank Format Workgroup website.
